@@ -1,4 +1,3 @@
-# Mandelbrot-Set
-# Mandelbrot-Set
-# Mandelbrot-Set
-# Mandelbrot-Set
+# Drawing the Mandelbrot Collection in Three Ways
+
+
