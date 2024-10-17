@@ -15,14 +15,13 @@ This project generates and visualizes the Mandelbrot set using C, C++, and CUDA.
 1. Clone the repository:
 
    ```sh
-   git clone https://https://github.com/Pp3ng/Mandelbrot-Set
+   git clone https://https://github.com/Pp3ng/Mandelbrot-Set.git
    cd Mandelbrot-Set
    ```
 
 2. Ensure you have the required compilers and tools installed:
    ```sh
-   sudo apt-get install build-essential
-   sudo apt-get install nvidia-cuda-toolkit
+   sudo apt install nvidia-cuda-toolkit
    ```
 
 ## Usage
@@ -33,11 +32,15 @@ This project generates and visualizes the Mandelbrot set using C, C++, and CUDA.
    make
    ```
 
+   Only compile three implementations.
+
 2. Run the generated executables:
 
    ```sh
    make run
    ```
+
+   Run the C, C++ and CUDA implementations and compare their performance.
 
 3. Clean the build files:
    ```sh
